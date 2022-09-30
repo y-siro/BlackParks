@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637202038065",
+    "project_id": "blackparks4-7a885",
+    "storage_bucket": "blackparks4-7a885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637202038065:android:557065b412d7acee588410",
+        "android_client_info": {
+          "package_name": "com.blackparks4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637202038065-4q3frngtb0bnreto4k5v0b8v9u4of4bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRMZUoONNwkBV9Q7DavpTS9LN0WFhq34c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637202038065-4q3frngtb0bnreto4k5v0b8v9u4of4bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
